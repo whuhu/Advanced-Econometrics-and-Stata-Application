@@ -75,5 +75,3 @@ if (`04_ex_graph' == 1) do "$scripts/04_ex_graph.do"
 //  "$proc/example.dta" // 01_ex_dataprep.R
 // OUTPUTS
 //  "$results/figures/ex_scatter.eps" # figure
-
-
