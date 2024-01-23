@@ -19,4 +19,4 @@ pwcorr pl pf pk, sig star(.05)
 
 predict lntchat
 
-predict el, residual
+predict e1, residual
